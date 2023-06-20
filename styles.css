@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: #000;
+  font-family: "Helvetica", sans-serif;
+  font-size: 50px;
+}
+
+.options {
+  margin-top: 50px;
+}
+
+.box {
+  width: 550px;
+  height: 100px;
+  margin: 10px auto;
+  display: block;
+  text-align: center;
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  outline: none;
+  margin-bottom: 50px; /* Add margin-bottom to increase the gap between buttons */
+}
+
+.agriculture {
+  background-color: #665e58;
+}
+
+.animal-husbandry {
+  background-color: #19320e;
+}
+
+.buildings {
+  background-color: #15426a;
+}
+
+.water {
+  background-color: #d2e504;
+}
+
